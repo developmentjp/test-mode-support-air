@@ -72,7 +72,7 @@ section {
     no-repeat center center/cover;
   color: #fff;
   font-family: "Montserrat", sans-serif;
-  min-height: 100%;
+  min-height: 100vh;
   overflow: hidden;
   display: flex;
   flex-direction: column;
