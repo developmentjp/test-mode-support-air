@@ -59,9 +59,8 @@ section {
 }
 .section__form hr {
 	width: 7rem;
-	height: 0.2rem;
 	background: white;
-	border: whITE;
+	border: 1.5px solid white;
 }
 h1,
 h5 {
