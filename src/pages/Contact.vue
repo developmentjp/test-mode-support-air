@@ -6,7 +6,7 @@
 		<div class="section__form">
 			<h1>CONTACT US</h1>
 			<hr />
-			<h5>Have a question?</h5>
+			<h5>Have a question? Want to collaborate?</h5>
 			<form @submit.prevent="handleForm" class="form">
 				<input type="text" name="name" id="name" placeholder="Name" class="form__name" required autofocus />
 				<input type="email" name="email" id="email" placeholder="Enter Email" class="form__email" required />
